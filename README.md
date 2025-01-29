@@ -25,12 +25,12 @@
   <p align="center">
     Cut through MITRE ATT&amp;CK framework and extract relevant identifiers for searching and hunting.
     <br><br>
-    <a href="https://mit-license.org"><img src="https://img.shields.io/github/license/ezaspy/MITRESaw" alt="License: MIT"></a>
-    <a href="https://github.com/ezaspy/MITRESaw/issues"><img src="https://img.shields.io/github/issues/ezaspy/MITRESaw" alt="Issues"></a>
-    <a href="https://github.com/ezaspy/MITRESaw/network/members"><img src="https://img.shields.io/github/forks/ezaspy/MITRESaw" alt="Forks"></a>
-    <a href="https://github.com/ezaspy/MITRESaw/stargazers"><img src="https://img.shields.io/github/stars/ezaspy/MITRESaw" alt="Stars"></a>
+    <a href="https://mit-license.org"><img src="https://img.shields.io/github/license/cyber1of3/MITRESaw" alt="License: MIT"></a>
+    <a href="https://github.com/cyber1of3/MITRESaw/issues"><img src="https://img.shields.io/github/issues/cyber1of3/MITRESaw" alt="Issues"></a>
+    <a href="https://github.com/cyber1of3/MITRESaw/network/members"><img src="https://img.shields.io/github/forks/cyber1of3/MITRESaw" alt="Forks"></a>
+    <a href="https://github.com/cyber1of3/MITRESaw/stargazers"><img src="https://img.shields.io/github/stars/cyber1of3/MITRESaw" alt="Stars"></a>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/language-python-pink" alt="Python"></a>
-    <a><img src="https://img.shields.io/github/last-commit/ezaspy/MITRESaw" alt="Last Commit"></a>
+    <a><img src="https://img.shields.io/github/last-commit/cyber1of3/MITRESaw" alt="Last Commit"></a>
     <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
     <br><br>
   </p>
@@ -118,13 +118,13 @@ APT41 modified legitimate Windows services to install malware backdoors. APT41 c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ezaspy/bruce.svg?style=flat-square
-[contributors-url]: https://github.com/ezaspy/bruce/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ezaspy/bruce.svg?style=flat-square
-[forks-url]: https://github.com/ezaspy/bruce/network/members
-[stars-shield]: https://img.shields.io/github/stars/ezaspy/bruce.svg?style=flat-square
-[stars-url]: https://github.com/ezaspy/bruce/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ezaspy/bruce.svg?style=flat-square
-[issues-url]: https://github.com/ezaspy/bruce/issues
-[license-shield]: https://img.shields.io/github/license/ezaspy/bruce.svg?style=flat-square
-[license-url]: https://github.com/ezaspy/bruce/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/cyber1of3/bruce.svg?style=flat-square
+[contributors-url]: https://github.com/cyber1of3/bruce/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cyber1of3/bruce.svg?style=flat-square
+[forks-url]: https://github.com/cyber1of3/bruce/network/members
+[stars-shield]: https://img.shields.io/github/stars/cyber1of3/bruce.svg?style=flat-square
+[stars-url]: https://github.com/cyber1of3/bruce/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cyber1of3/bruce.svg?style=flat-square
+[issues-url]: https://github.com/cyber1of3/bruce/issues
+[license-shield]: https://img.shields.io/github/license/cyber1of3/bruce.svg?style=flat-square
+[license-url]: https://github.com/cyber1of3/bruce/master/LICENSE.txt
